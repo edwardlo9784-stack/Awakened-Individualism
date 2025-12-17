@@ -10,6 +10,8 @@
 ![Status](img.shields.io)
 
 ---
+> 📖 **[點擊此處閱讀完整版論文 (Full Manifesto)](./Awakened_Individualism_Manifesto_Full.md)**
+> 📄 **[下載 PDF 正式版本 (Download PDF)](./Awakened_Individualism_Manifesto_MoonMoon.pdf)**
 
 ## 📜 摘要 (Abstract)
 本文提出「覺醒個體主義」作為超越集體主義與傳統個人主義的第三路徑。主張生命為不可量化的「有機格式」，批判當代體制以無機規則、學歷門檻及「偽科技」對生命設置的枷鎖。透過人性中「健康的利己主義」驅動，輔以全人類共識控制的透明 AI 倫理憲章，人類將達成權力消亡的終極狀態：人人皆為統治者與被統治者。本文強調，做好「小我」即是完成「大我」，達成具備自我糾正能力的有機社會演化。
