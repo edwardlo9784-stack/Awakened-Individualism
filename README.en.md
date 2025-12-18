@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1118476285.svg)](https://doi.org/10.5281/zenodo.17973534)
 <div align="center">
   <h1>🌊 Awakened Individualism: A Manifesto on Organic Evolution, Technological Sovereignty, and the End of Power</h1>
   <p><b>Awakened Individualism: A Manifesto on Organic Evolution, Technological Sovereignty, and the End of Power</b></p>
