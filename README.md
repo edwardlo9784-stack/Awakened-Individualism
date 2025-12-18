@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1118476285.svg)](https://doi.org/10.5281/zenodo.17973534)
 # 🌊 覺醒個體主義：有機演化、技術主權與權力終結的文明宣言
 **Awakened Individualism: A Manifesto on Organic Evolution, Technological Sovereignty, and the End of Power**
 
