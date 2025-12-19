@@ -110,9 +110,9 @@
 
 ---
 
-## Awakened Individualism Manifesto: The Organic Social Model in the AI Era
+### Awakened Individualism Manifesto: The Organic Social Model in the AI Era
 
-### Core Vision
+## Core Vision
 
 ### 1.The Emergence of Progress
 - In a post-labor era of abundance, humanity shifts from "horizontal resource struggle" to "vertical self-transcendence." Recognizing that every individual possesses unique innate talents, the pursuit of personal excellence naturally fosters human diversity. This diversity triggers an "emergence effect," driving civilization forward across all dimensions. Within this framework, altruism becomes a refined form of self-interest, as the advancement of others enriches the collective environment in which the individual exists.
