@@ -11,7 +11,7 @@
 ![Status](img.shields.io)
 
 ---
-> 📖 **[點擊此處閱讀完整版論文 (Full Manifesto)](./Awakened_Individualism_Manifesto_MoonMoon完整補充整合版.md)**
+> 📖 **[點擊此處閱讀完整版論文 (Full Manifesto)](./Awakened_Individualism_Manifesto_MoonMoon完整補充整合版.pdf)**
 > 📄 **[下載 PDF 正式版本 (Download PDF)](./Awakened_Individualism_Manifesto_MoonMoon.pdf)**
 > <p align="center">
   [中文 (Traditional)] | <a href="./README.en.md">English Version</a>
